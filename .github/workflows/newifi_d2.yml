@@ -8,8 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 # fanpest
 
-name: Build OpenWrt
-
+name: Build newifi_d2
 on:
   repository_dispatch:
   workflow_dispatch:
